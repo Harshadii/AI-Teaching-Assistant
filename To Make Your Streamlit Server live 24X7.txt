@@ -1,0 +1,2 @@
+To Make Your Streamlit live Go to https://streamlit.io/cloud 
+And Make a Account with GitHub and Upload Your Repo after That Start the Server
