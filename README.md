@@ -22,7 +22,7 @@ An intelligent AI-powered Teaching Assistant built using Retrieval-Augmented Gen
 ## 🏗️ Architecture
 
 
-                            Workflow
+                          Workflow
 
                         PDF Documents
                             │
@@ -56,7 +56,9 @@ An intelligent AI-powered Teaching Assistant built using Retrieval-Augmented Gen
     Embeddings             Hugging Face Embeddings
     Vector Database        ChromaDB
     Document Processing    PyPDF-Text Splitter
-    Environment            python-dotenv## 📂 Project Structure
+    Environment            python-dotenv
+    
+## 📂 Project Structure
 
 ```text
 AI-Teaching-Assistant
