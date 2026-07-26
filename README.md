@@ -131,7 +131,11 @@ streamlit run app.py
     7. The assistant returns an accurate response.
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+  ![App Screenshot](https://github.com/Harshadii/AI-Teaching-Assistant/blob/main/document%20loaders/WorkFlow.png)
+
+  ![App Screenshot](https://github.com/Harshadii/AI-Teaching-Assistant/blob/main/document%20loaders/Demo%201.png)
+
+  ![App Screenshot](https://github.com/Harshadii/AI-Teaching-Assistant/blob/main/document%20loaders/Demo2.png)
 
 
 ## 🎯 Future Improvements
