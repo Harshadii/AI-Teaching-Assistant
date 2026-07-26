@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+mistralai
+chromadb
+langchain-chroma
+pypdf
+python-dotenv
+streamlit
+pysqlite3-binary; sys_platform == 'linux'
+tqdm
+requests
