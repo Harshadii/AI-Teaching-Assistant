@@ -154,4 +154,6 @@ streamlit run app.py
 
     B.Tech CSE (Data Science)
 
+    Server live : https://ai-teaching-assistant-harshadii.streamlit.app/
+
     If you found this project helpful, consider giving it a ⭐ on GitHub.
