@@ -357,7 +357,7 @@ transform:rotate(360deg);
 </style>
 """, unsafe_allow_html=True)
 
-DB_DIR = os.path.join(tempfile.gettempdir(), "chroma_db")
+DB_DIR = "chroma_db"
 
 # -------------------------------------------------------------
 # API Key Setup & Validation
